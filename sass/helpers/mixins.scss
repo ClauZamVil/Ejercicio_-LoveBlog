@@ -1,0 +1,16 @@
+@mixin mainmenu {
+	font: {
+    family: Arial;
+    size: 20px;
+    weight: bold;
+  }
+  color: $color-main;
+}
+
+.mainmenu{
+	color:$color-main;
+	
+}
+
+
+
